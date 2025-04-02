@@ -288,3 +288,4 @@ class ProductDetailViewController: UIViewController {
          }
     }
 }
+// Добавляю коммит для создания PR
