@@ -288,4 +288,5 @@ class ProductDetailViewController: UIViewController {
          }
     }
 }
-// Добавляю коммит для создания PR
+// Commit для Pull Request
+
