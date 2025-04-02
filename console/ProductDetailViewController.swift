@@ -288,5 +288,5 @@ class ProductDetailViewController: UIViewController {
          }
     }
 }
-// Commit для Pull Request
+// Commit для Pull Requestt
 
