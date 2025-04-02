@@ -1,0 +1,26 @@
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcuserdatad/
+*.xcschememanagement.plist
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+*.resolved
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Общие
+.DS_Store
+*.swp
+*~.nib
+local.properties
